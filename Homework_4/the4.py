@@ -13,7 +13,7 @@ elif yil == 2017:
     if ay in range(1,13):
       break
 
-filem = open("turkiye_spotify_data.txt","r")
+filem = open("turkiye_spotify_data(2).txt","r")
 db = filem.readlines()
 filem.close()
 
